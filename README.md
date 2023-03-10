@@ -1,7 +1,9 @@
 # flyio
-[![Build Status](https://github.com/fixcer/flyio/workflows/deployment/badge.svg)](https://github.com/fixcer/flyio/actions)
+[![Build Status](https://github.com/fixcer/flyio/actions/workflows/deployment.yaml/badge.svg?branch=main)](https://github.com/fixcer/flyio/actions/workflows/deployment.yaml)
 
 Example project showing how to run Spring Boot apps on https://fly.io/
+
+You can find the code at [Github](https://github.com/fixcer/flyio)
 
 ## Why
 
